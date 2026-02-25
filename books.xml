@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<!DOCTYPE books SYSTEM "books.dtd">
+
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="books.xsd">
+
+    <book>
+        <title>Wings of Fire</title>
+        <author>Abdul kalam</author>
+        <isbn>9780136042594</isbn>
+        <publisher>GreatIndia</publisher>
+        <edition>1</edition>
+        <price>450.00</price>
+    </book>
+
+    <book>
+        <title>Machine Learning</title>
+        <author>Tom M. Mitchell</author>
+        <isbn>9780070428072</isbn>
+        <publisher>McGraw Hill</publisher>
+        <edition>1</edition>
+        <price>720.50</price>
+    </book>
+
+    <book>
+        <title>Deep Learning</title>
+        <author>Ian Goodfellow</author>
+        <isbn>9780262035613</isbn>
+        <publisher>MIT Press</publisher>
+        <edition>1</edition>
+        <price>990.00</price>
+    </book>
+
+</books>
